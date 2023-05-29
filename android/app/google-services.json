@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927491863900",
+    "project_id": "advanced-chat-app-372b6",
+    "storage_bucket": "advanced-chat-app-372b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927491863900:android:ac4e354e84e5f4dabb7d99",
+        "android_client_info": {
+          "package_name": "com.example.chatappadvanced"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927491863900-np4mvfb9e7ko97fb31gg89h1g94bc3a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC99JM5lcNblcaTPO2TnfFMYsaEIfUq3Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927491863900-np4mvfb9e7ko97fb31gg89h1g94bc3a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
